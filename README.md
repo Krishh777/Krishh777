@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Krish Bagga, a Computer Science Engineering student focused on Software Engineering, Cloud Computing, Backend Development, and DevOps.<br><br>I enjoy building practical systems using Python, C++, AWS, Docker, Kubernetes, Terraform, and FastAPI. My projects range from cloud security and serverless applications to computer vision and document-processing pipelines.<br><br>I’m currently strengthening my DSA, system design, backend engineering, and cloud architecture skills while building projects that solve real-world problems.<br><br>Currently learning: DSA • System Design • AWS • Kubernetes • CI/CD • Backend Engineering
+Hi, I’m Krish Bagga, a Computer Science Engineering student focused on Software Engineering, Cloud Computing, Backend Development, and DevOps.<br><br>I enjoy building practical systems using Python, C++, AWS, Docker, Kubernetes, Terraform, and FastAPI.I am AWS Certified Cloud Practitioner, My projects range from cloud security and serverless applications to computer vision and document-processing pipelines.<br><br>I’m currently strengthening my DSA, system design, backend engineering, and cloud architecture skills while building projects that solve real-world problems.<br><br>Currently learning: DSA • System Design • AWS • Kubernetes • CI/CD • Backend Engineering
 
 
 ## 🌐 Socials:
